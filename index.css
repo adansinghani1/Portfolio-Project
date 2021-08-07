@@ -289,7 +289,7 @@ body:not(.user-is-tabbing) a:focus {
 
 .back-to-top {
     position: fixed;
-    bottom: 20rem;
+    bottom: 15rem;
     right: 4rem;
     display: flex;
     justify-content: center;
