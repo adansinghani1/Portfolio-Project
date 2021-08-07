@@ -1,12 +1,12 @@
-# Portfolio Page  
-[X] Design
-[X] JavaScript Commands
-[X] Images
-[X] Links
-[X] Example Work
-[X] Tabs
-[] AI
-[] Worktree
+# Portfolio Website
+[X] Design  
+[X] JavaScript Commands  
+[X] Images  
+[X] Links  
+[X] Example Work  
+[X] Tabs  
+[] AI  
+[] Worktree  
 
 
 usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
