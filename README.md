@@ -1,3 +1,14 @@
+# Portfolio Page  
+[X] Design
+[X] JavaScript Commands
+[X] Images
+[X] Links
+[X] Example Work
+[X] Tabs
+[] AI
+[] Worktree
+
+
 usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
            [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
