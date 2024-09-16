@@ -54,7 +54,7 @@ $(window).load(function(){
 });
 /* END ------------------------------------------------------- */
 
-
+/* Need a timer function which activates when there is an error and when you enter the page, timer starts at two hours */
 $('#countdown').countdown({
 	date: "Dec 25 2021",
 	render: function(data) {
